@@ -6,3 +6,5 @@ CREATE TABLE admins (
     email VARCHAR(255) NOT NULL,
 );  
 
+
+
